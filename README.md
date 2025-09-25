@@ -4,7 +4,7 @@
 
 [![Scala](https://img.shields.io/badge/Scala-3.3.4-red.svg)](https://scala-lang.org/)
 [![ScalaFX](https://img.shields.io/badge/ScalaFX-21.0.0-blue.svg)](https://scalafx.org/)
-[![License](https://img.shields.io/badge/License-Educational-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT%20with%20Asset%20Restrictions-blue.svg)](LICENSE)
 [![SDG](https://img.shields.io/badge/UN%20SDG-2%20Zero%20Hunger-orange.svg)](https://sdgs.un.org/goals/goal2)
 
 ![Harvest for All Screenshot](docs/gameplay-screenshot.png)
@@ -83,6 +83,8 @@ src/main/scala/harvestforall/
 
 ### Installation & Running
 
+> **⚠️ Asset Requirements**: This project uses paid assets that are **NOT included** in the repository. You must obtain the crop sprites separately from [Seliel the Shaper](https://seliel-the-shaper.itch.io/) to run the complete game.
+
 1. **Clone the repository**
 
    ```bash
@@ -90,13 +92,19 @@ src/main/scala/harvestforall/
    cd Harvest-For-All
    ```
 
-2. **Run the game**
+2. **Obtain Required Assets** (for full functionality)
+
+   - Purchase "20.02a - Farming Crops #1 3.0" from [Seliel the Shaper](https://seliel-the-shaper.itch.io/)
+   - Download free assets: [Blue Boy Adventure Pack](https://www.youtube.com/@RyiSnow), [Upheaval Font](https://www.dafont.com/upheaval.font)
+   - Place assets in appropriate `src/main/resources/` directories
+
+3. **Run the game**
 
    ```bash
    sbt run
    ```
 
-3. **Alternative: Compile and run manually**
+4. **Alternative: Compile and run manually**
    ```bash
    sbt compile
    sbt "runMain harvestforall.HarvestForAllApp"
@@ -175,15 +183,45 @@ src/main/scala/harvestforall/
 ### Graphics
 
 - **Tile Graphics**: Blue Boy Adventure Graphics Pack by RyiSnow (Educational Use)
+
+  - Source: [RyiSnow YouTube Channel](https://www.youtube.com/@RyiSnow)
+  - License: Educational Use Permission
+  - Status: ✅ Freely available
+
 - **Crop Sprites**: "20.02a - Farming Crops #1 3.0" by Seliel the Shaper (Purchased License)
+  - Source: [Seliel the Shaper Itch.io](https://seliel-the-shaper.itch.io/)
+  - License: Commercial License (Purchased)
+  - Status: ⚠️ **NOT INCLUDED** - Must be purchased separately
 
 ### Audio
 
 - **Background Music**: "A Lonely Cherry Tree" by Pix (YouTube Audio Library - No Copyright)
+  - Source: [Pix YouTube Channel](https://www.youtube.com/@Pixverses)
+  - License: No Copyright (YouTube Audio Library)
+  - Status: ✅ Freely available
 
 ### Fonts
 
 - **UI Font**: Upheaval TrueType Font by Brian Kent (Freeware License)
+  - Source: [DaFont - Upheaval](https://www.dafont.com/upheaval.font)
+  - License: Freeware (Personal and Commercial Use)
+  - Status: ✅ Freely available
+
+### 📁 Asset Setup for Developers
+
+If you want to run the complete game, place assets in the following structure:
+
+```
+src/main/resources/
+├── graphics/
+│   ├── tiles/           # Blue Boy Adventure Pack
+│   ├── crops/           # 🚨 Paid assets - not included
+│   └── player/          # Blue Boy Adventure Pack
+├── audio/
+│   └── background/      # YouTube Audio Library tracks
+└── fonts/
+    └── upheaval.ttf     # Free font download
+```
 
 ## 🔧 Technical Requirements
 
@@ -239,7 +277,14 @@ This is an educational project developed for university coursework. While not ac
 
 ## 📄 License
 
-This project is developed for educational purposes. See individual asset licenses in the attribution section above.
+This project is licensed under the **MIT License with Asset Restrictions**.
+
+- **Source Code**: Freely available under MIT License
+- **Paid Assets**: NOT included - must be obtained separately (see [LICENSE](LICENSE) for details)
+- **Educational Use**: This project was developed for university coursework
+- **Asset Attribution**: All third-party assets are properly credited and subject to their respective licenses
+
+See the full [LICENSE](LICENSE) file for complete terms and asset usage restrictions.
 
 ## 👨‍💻 Author
 

@@ -1,0 +1,52 @@
+MIT License with Asset Restrictions
+
+Copyright (c) 2025 Joshua Bonham
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+ASSET RESTRICTIONS:
+This license DOES NOT grant rights to the following assets, which are subject
+to their respective licenses and must be obtained separately:
+
+1. Crop Sprites: "20.02a - Farming Crops #1 3.0" by Seliel the Shaper
+   License: Commercial License (Purchased)
+   Website: https://seliel-the-shaper.itch.io/
+   Status: NOT INCLUDED - Must be purchased separately
+
+2. Tile Graphics: Blue Boy Adventure Graphics Pack by RyiSnow
+   License: Educational Use Permission
+   Website: https://www.youtube.com/@RyiSnow
+   Status: Educational use only
+
+3. Font: Upheaval TrueType Font by Brian Kent
+   License: Freeware (Personal and Commercial Use)
+   Website: https://www.dafont.com/upheaval.font
+   Status: Freely available
+
+4. Music: "A Lonely Cherry Tree" by Pix
+   License: YouTube Audio Library - No Copyright
+   Website: https://www.youtube.com/@Pixverses
+   Status: Freely available
+
+USAGE NOTES:
+
+- The SOFTWARE (source code) is freely available under MIT License
+- To run this project, users must obtain the paid assets separately
+- This project was developed for educational purposes
+- Asset creators retain all rights to their respective works
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
