@@ -1,0 +1,184 @@
+{
+  "saveDate" : "2025-08-08 18:25:50",
+  "gameVersion" : "1.0.0",
+  "gameStats" : {
+    "totalMoneyEarned" : 0,
+    "totalCropsHarvested" : 0,
+    "gamesPlayed" : 1,
+    "sustainabilityRating" : 33.9,
+    "currency" : 916
+  },
+  "farmPlots" : {
+    "(31, 16)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(33, 14)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(36, 15)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(29, 14)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(29, 16)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(32, 15)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(29, 15)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(38, 15)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 1,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(38, 16)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(31, 14)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(30, 14)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(31, 15)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(36, 14)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(30, 16)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(28, 14)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(35, 15)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(37, 15)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 1,
+      "isReadyToHarvest" : false
+    },
+    "(37, 16)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(34, 16)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(33, 15)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(33, 16)" : {
+      "plantedTime" : 1754648750411,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    }
+  },
+  "saveName" : "Hello",
+  "totalPlayTime" : 0,
+  "inventoryData" : {
+    "items" : {
+      "tomato_seeds" : 18,
+      "corn_seeds" : 24,
+      "spinach_seeds" : 24,
+      "tomato" : 3,
+      "carrot" : 12,
+      "spinach" : 4,
+      "wheat" : 9,
+      "wheat_seeds" : 9,
+      "corn" : 6,
+      "carrot_seeds" : 36
+    },
+    "selectedIndex" : 0
+  },
+  "lastSaved" : "2025-08-08 18:25:50",
+  "playerData" : {
+    "worldX" : 1448,
+    "worldY" : 824,
+    "currentHealth" : 6,
+    "maxHealth" : 6
+  }
+}

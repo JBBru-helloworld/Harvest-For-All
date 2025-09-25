@@ -1,0 +1,1146 @@
+{
+  "saveDate" : "2025-08-08 23:53:40",
+  "gameVersion" : "1.0.0",
+  "gameStats" : {
+    "totalMoneyEarned" : 0,
+    "totalCropsHarvested" : 0,
+    "gamesPlayed" : 1,
+    "sustainabilityRating" : 100,
+    "currency" : 1936
+  },
+  "farmPlots" : {
+    "(37, 18)" : {
+      "plantedTime" : 1754668420764,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(31, 20)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(28, 31)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(31, 16)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(38, 17)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(30, 17)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(36, 18)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(39, 39)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(40, 36)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(40, 31)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(33, 14)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(29, 18)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(36, 15)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(33, 28)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(36, 20)" : {
+      "plantedTime" : 1754668420765,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(31, 30)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(34, 18)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(39, 35)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(28, 32)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(33, 19)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(40, 32)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(33, 30)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(31, 19)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(35, 26)" : {
+      "growthStage" : 0,
+      "waterLevel" : 0,
+      "plantedTime" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(33, 35)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(33, 17)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(40, 35)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(34, 27)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(32, 25)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(30, 20)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(39, 41)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(28, 16)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(38, 42)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(39, 14)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(29, 31)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(38, 39)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(38, 32)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(34, 14)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(33, 26)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(39, 31)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(29, 19)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(32, 16)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(39, 38)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(39, 40)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(37, 19)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(38, 41)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(31, 28)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(31, 15)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(36, 14)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(30, 16)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(36, 17)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(29, 14)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(36, 16)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(31, 29)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(39, 15)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(40, 43)" : {
+      "plantedTime" : 1754668420766,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(32, 14)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(37, 14)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(35, 27)" : {
+      "growthStage" : 0,
+      "waterLevel" : 0,
+      "plantedTime" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(33, 29)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(28, 33)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(28, 15)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(34, 33)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(28, 20)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(40, 33)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(29, 16)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(31, 24)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(35, 14)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(28, 18)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(40, 34)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(34, 32)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(38, 33)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(31, 25)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(34, 28)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(34, 15)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(32, 17)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(39, 32)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(38, 38)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(32, 20)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(35, 19)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(28, 34)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(32, 15)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(32, 35)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(38, 31)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(33, 25)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(39, 16)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(38, 40)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(40, 42)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(29, 15)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(39, 37)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(30, 35)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(40, 39)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(30, 31)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(28, 19)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(34, 19)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(38, 34)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(28, 14)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(35, 15)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(31, 26)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(34, 29)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(37, 15)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(34, 35)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(38, 14)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(39, 33)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(34, 34)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(34, 16)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(37, 16)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(31, 35)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(34, 20)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(32, 18)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(38, 15)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(36, 19)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(33, 15)" : {
+      "plantedTime" : 1754668420767,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(33, 27)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(33, 16)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(40, 40)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(33, 24)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(29, 20)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(40, 41)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(30, 19)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(31, 18)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(37, 20)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(34, 31)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(40, 37)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(34, 25)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(34, 26)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(34, 30)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(35, 18)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(30, 18)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(38, 37)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(31, 17)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(40, 38)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(39, 36)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(35, 17)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(38, 36)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(29, 17)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(38, 16)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 1,
+      "isReadyToHarvest" : false
+    },
+    "(33, 20)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(38, 35)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(32, 24)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(36, 26)" : {
+      "growthStage" : 0,
+      "waterLevel" : 0,
+      "plantedTime" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(35, 16)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(35, 20)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(39, 43)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(31, 14)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(32, 19)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(34, 17)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Carrot",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(39, 34)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(31, 31)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(30, 15)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(33, 18)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Corn",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(39, 17)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(35, 25)" : {
+      "growthStage" : 0,
+      "waterLevel" : 0,
+      "plantedTime" : 0,
+      "isReadyToHarvest" : false
+    },
+    "(30, 14)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(38, 43)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(39, 42)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Spinach",
+      "waterLevel" : 0,
+      "growthStage" : 2,
+      "isReadyToHarvest" : false
+    },
+    "(37, 17)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Tomato",
+      "waterLevel" : 0,
+      "growthStage" : 4,
+      "isReadyToHarvest" : true
+    },
+    "(28, 17)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 3,
+      "isReadyToHarvest" : false
+    },
+    "(31, 27)" : {
+      "plantedTime" : 1754668420768,
+      "cropType" : "Wheat",
+      "waterLevel" : 0,
+      "growthStage" : 0,
+      "isReadyToHarvest" : false
+    }
+  },
+  "saveName" : "AutoSave",
+  "totalPlayTime" : 0,
+  "inventoryData" : {
+    "items" : {
+      "tomato_seeds" : 31,
+      "corn_seeds" : 43,
+      "spinach_seeds" : 25,
+      "tomato" : 3,
+      "carrot" : 4,
+      "spinach" : 2,
+      "wheat" : 3,
+      "wheat_seeds" : 14,
+      "corn" : 2,
+      "carrot_seeds" : 68
+    },
+    "selectedIndex" : 3
+  },
+  "lastSaved" : "2025-08-08 23:53:40",
+  "playerData" : {
+    "worldX" : 1852,
+    "worldY" : 912,
+    "currentHealth" : 6,
+    "maxHealth" : 6
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "saveDate" : "2025-08-08 23:05:48",
+  "gameVersion" : "1.0.0",
+  "gameStats" : {
+    "totalMoneyEarned" : 0,
+    "totalCropsHarvested" : 0,
+    "gamesPlayed" : 1,
+    "sustainabilityRating" : 0,
+    "currency" : 1000
+  },
+  "farmPlots" : { },
+  "saveName" : "Sunway",
+  "totalPlayTime" : 0,
+  "inventoryData" : {
+    "items" : {
+      "tomato_seeds" : 6,
+      "corn_seeds" : 8,
+      "spinach_seeds" : 8,
+      "tomato" : 1,
+      "carrot" : 4,
+      "spinach" : 2,
+      "wheat" : 3,
+      "wheat_seeds" : 10,
+      "corn" : 2,
+      "carrot_seeds" : 12
+    },
+    "selectedIndex" : 0
+  },
+  "lastSaved" : "2025-08-08 23:05:48",
+  "playerData" : {
+    "worldX" : 1088,
+    "worldY" : 1100,
+    "currentHealth" : 6,
+    "maxHealth" : 6
+  }
+}
