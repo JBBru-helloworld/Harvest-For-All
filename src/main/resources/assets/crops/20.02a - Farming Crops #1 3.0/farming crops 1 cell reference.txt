@@ -1,0 +1,95 @@
+Hello! This text file is here to help you identify the crops included in this pack, and set them up in your game engine easily.
+Find the original asset here:
+https://seliel-the-shaper.itch.io/farming-crops
+
+The Mana Seed Farming Crops sheets are arranged on a 144x512 pixel sheet, designed to be sliced at 16x32 pixels.
+Each horizontal row has the following sprites for a single crop:
+
+	Column 1) An inventory/shop icon for the crop.
+	Column 2) An inventory/shop icon for the crop's seedbag.
+	Column 3) Some seeds, for scattering on the ground when you plant them.
+	Column 4) Stage 1 of the crop's growth.
+	Column 5) Stage 2 of the crop's growth.
+	Column 6) Stage 3 of the crop's growth.
+	Column 7) Stage 4 of the crop's growth.
+	Column 8) Stage 5 of the crop's growth.
+	Column 9) An inventory/shop icon for the sign (see column 9).
+	Column 10) Map object sign for the crop, so you know what you put in your garden.
+
+They're all in this arrangement, so if you've got a system in your game for growing the crops, you can simply advance the frame by 1 for each stage (until 5).
+You can also use the cell references below to quickly find the icons or signage by adding a certain value to the reference number.
+
+After you plant the crops, they're meant to grow from stage 1 to 5 over whatever time you set.
+For most crops, once it reaches stage 5 it's meant to be harvested, and then deleted from the environment.
+But stage 4 and 5 need to be considered differently for some crops.
+Some crops are designed to be harvested multiple times, in these cases, you still harvest it at stage 5, but...
+... instead of deleting it from the environment, you reset it to stage 4, then move again to stage 5 the next day (or longer).
+When you've given your player enough harvests, you can set it to eventually go away after harvesting stage 5.
+The crops that work like this are visually identifiable by the fact that their stage 4 and 5 will be identical but for the absence/presence of harvestable vegetables.
+Here's the list, though: corn, peas, beans, tomatoes, cucumber, zucchini, strawberries, and grapes.
+
+Now for a cell reference guide to help you identify what the crops are meant to be.
+There are 144 cells in each sheet, and I'm starting at cell 0 (so if your engine starts frames at cell 1, then just add 1 to all the references.
+
+farming crops 1-A 16x32.png
+
+0	Beetroot
+9	Cabbage
+19	Carrot
+29	Yellow Corn
+39	Yellow Onion
+49	Brown Potato
+59	Green Peas
+69	Pinto Beans
+79	Tomato
+89	Wheat
+99	Cucumber
+109	Spinach
+119	Strawberries
+129	Blue Grapes
+139	Pumpkin
+140	Broccoli
+
+farming crops 1-B 16x32.png (recolors)
+
+0	White Beetroot
+9	Golden Beetroot
+19	Red Cabbage
+29	Parsnip
+39	White Corn
+49	Red Corn
+59	Blue Corn
+69	Red Onion
+79	Red Potato
+89	White Potato
+99	Purple Potato
+109	Kidney Beans
+119	Black Beans
+129	Green Tomato
+139	Golden Tomato
+140	Orange Tomato
+
+farming crops 1-C 16x32.png (recolors)
+
+0	Barley
+9	Rye
+19	Green Grapes
+29	Red Grapes
+39	Cotton Candy Pumpkin
+49	Cauliflower
+59	n/a
+69	n/a
+79	n/a
+89	n/a
+99	n/a
+109	n/a
+119	n/a
+129	n/a
+139	n/a
+140	n/a
+
+Note: I left some empty space on page C just in case I want to add more recolors in a future update.
+
+One last note: The giant veggies on the "32x80" sheet are a cabbage, cucumber, and tomato.
+I left an empty space for one more in a potential future update.
+I chose not to include recolors of these, but feel free to make your own using the recolors of the small ones I provided on page B.

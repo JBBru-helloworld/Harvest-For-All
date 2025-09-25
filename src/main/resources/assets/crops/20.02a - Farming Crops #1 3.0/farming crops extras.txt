@@ -1,0 +1,3 @@
+The extras sheets have some blank elements (like signs, posts, and seedbags) so you can add your own veggies.
+The "16x32" sheet contains some "dead" crops for you to replace your other crops with if your player neglects to water them or something.
+The "16x16" sheet contains some weeds (and pollen particles) for you to use if your player doesn't take care of the soil maybe? Your choice!
