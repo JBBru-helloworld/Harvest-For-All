@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](LICENSE)
 [![SDG](https://img.shields.io/badge/UN%20SDG-2%20Zero%20Hunger-orange.svg)](https://sdgs.un.org/goals/goal2)
 
-![Harvest for All Screenshot](docs/gameplay-screenshot.png)
+<img src="docs/gameplay-screenshot.png" alt="Harvest for All Screenshot" width="600">
 
 ## 📖 Overview
 
@@ -83,7 +83,7 @@ src/main/scala/harvestforall/
 
 ### Installation & Running
 
-> **⚠️ Asset Requirements**: This project uses paid assets that are **NOT included** in the repository. You must obtain the crop sprites separately from [Seliel the Shaper](https://seliel-the-shaper.itch.io/) to run the complete game.
+> **⚠️ Asset Requirements**: This project uses paid assets that are **included for demonstration purposes** in the repository. You must obtain the crop sprites separately from [Seliel the Shaper](https://seliel-the-shaper.itch.io/) to run the complete game or use the game for other educational projects.
 
 1. **Clone the repository**
 
