@@ -83,7 +83,7 @@ src/main/scala/harvestforall/
 
 ### Installation & Running
 
-> **⚠️ Asset Requirements**: This project uses paid assets that are **included for demonstration purposes** in the repository. You must obtain the crop sprites separately from [Seliel the Shaper](https://seliel-the-shaper.itch.io/) to run the complete game or use the game for other educational projects.
+> **⚠️ Asset Requirements**: This project uses paid assets that are **NOT included** in the repository. You must obtain the crop sprites separately from [Seliel the Shaper](https://seliel-the-shaper.itch.io/) to run the complete game or use the game for other educational projects. Place these assets in assets/crops folder.
 
 1. **Clone the repository**
 
