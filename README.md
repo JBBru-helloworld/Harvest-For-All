@@ -4,7 +4,7 @@
 
 [![Scala](https://img.shields.io/badge/Scala-3.3.4-red.svg)](https://scala-lang.org/)
 [![ScalaFX](https://img.shields.io/badge/ScalaFX-21.0.0-blue.svg)](https://scalafx.org/)
-[![License](https://img.shields.io/badge/License-MIT%20with%20Asset%20Restrictions-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](LICENSE)
 [![SDG](https://img.shields.io/badge/UN%20SDG-2%20Zero%20Hunger-orange.svg)](https://sdgs.un.org/goals/goal2)
 
 ![Harvest for All Screenshot](docs/gameplay-screenshot.png)
@@ -277,12 +277,14 @@ This is an educational project developed for university coursework. While not ac
 
 ## 📄 License
 
-This project is licensed under the **MIT License with Asset Restrictions**.
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
 
-- **Source Code**: Freely available under MIT License
+- **Source Code**: Available for educational and non-commercial use only
+- **Commercial Use**: ❌ **Prohibited** - contact author for commercial licensing
+- **Sharing**: ✅ Allowed with proper attribution
+- **Modifications**: ✅ Allowed but must use same license
 - **Paid Assets**: NOT included - must be obtained separately (see [LICENSE](LICENSE) for details)
 - **Educational Use**: This project was developed for university coursework
-- **Asset Attribution**: All third-party assets are properly credited and subject to their respective licenses
 
 See the full [LICENSE](LICENSE) file for complete terms and asset usage restrictions.
 
