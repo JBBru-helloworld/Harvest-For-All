@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](LICENSE)
 [![SDG](https://img.shields.io/badge/UN%20SDG-2%20Zero%20Hunger-orange.svg)](https://sdgs.un.org/goals/goal2)
 
-![Harvest for All Screenshot](<img width="2396" height="1578" alt="image" src="main/resources/assets/Harvest For All Screenshot.png" />)
+![Harvest for All Screenshot](docs/gameplay-screenshot.png)
 
 ## 📖 Overview
 
